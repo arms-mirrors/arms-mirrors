@@ -1,1 +1,5 @@
-# .profile
+# Instructor
+
+```mermaid
+  info
+```
